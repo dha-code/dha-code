@@ -16,7 +16,7 @@ For me, AI is a **bridge between science and real-world impact**, turning data i
 
 My journey of learning and implementing data science and AI in real-world applications, gaining hands-on experience.
 
-### 🍷 Wine quality prediction
+### <li> Wine quality prediction
 *Description:* A sequential neural network model to predict the quality of wine based on its chemical features.  
 *Tech Stack:* Python, Pandas, Keras, Seaborn, SDV
 
@@ -24,14 +24,14 @@ My journey of learning and implementing data science and AI in real-world applic
 🔗 [View Project](https://github.com/dha-code/Wine_quality_prediction)
 
 
-### 📧 Phishing Email Campaign
+### <li> Phishing Email Campaign
 *Description:* A GenAI-based personalised phishing email creator as a use-case for a telecom company.</br>
 *Tech Stack:* Python, GeminiAPI, Pandas, HTML
 
 🔗 [View Project](https://github.com/dha-code/Proximus_Phishing_Email_Campaign)
 
 
-### 📈 Real Estate Price Prediction
+### <li> Real Estate Price Prediction
 *Description:* A machine learning model to predict real estate prices in Belgium based on current market trend.  
 *Tech Stack:* Python, Pandas, Selenium, BeautifulSoup, Seaborn, Scikit-learn, Streamlit
 
